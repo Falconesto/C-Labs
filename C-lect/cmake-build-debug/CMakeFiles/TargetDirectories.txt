@@ -1,0 +1,3 @@
+D:/labs/C-Labs/C-lect/cmake-build-debug/CMakeFiles/C_lect.dir
+D:/labs/C-Labs/C-lect/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/labs/C-Labs/C-lect/cmake-build-debug/CMakeFiles/rebuild_cache.dir

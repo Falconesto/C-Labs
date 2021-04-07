@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/C-Labs/11lab/ring.c
+ring.h
+D:/labs/C-Labs/11lab/ring.h
+math.h
+D:/labs/C-Labs/11lab/math.h
+
+D:/labs/C-Labs/11lab/ring.h
+math.h
+D:/labs/C-Labs/11lab/math.h
+
